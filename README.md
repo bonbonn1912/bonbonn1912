@@ -8,8 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonbonn1912&langs_count=6" />
 </a> </p>
 
-  <p align="center">🔭 I’m currently working on some NodeJs Applications</p>
-  <p align="center">🌱 I’m currently learning Angular, MongoDB, Electron</p>
 <!--
 **bonbonn1912/bonbonn1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
