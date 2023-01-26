@@ -1,7 +1,8 @@
 ### <p align="center"> Hi there 👋 </p>
-![](https://komarev.com/ghpvc/?username=bonbonn1912)
+
  <p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonbonn1912&show_icons=true&theme=radical&count_private=true" />
+  ![](https://komarev.com/ghpvc/?username=bonbonn1912)
 </a> </p>
 
 <p align="center"><a href="https://github.com/anuraghazra/convoychat">
